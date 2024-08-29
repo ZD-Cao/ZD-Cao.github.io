@@ -1,6 +1,6 @@
 
 
-[![Zengdong Cao]]
+[[Zengdong Cao]]
 
 I am a Ph.D candidate at Beijing Normal University, China.
 
