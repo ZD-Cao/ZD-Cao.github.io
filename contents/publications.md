@@ -1,12 +1,23 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>Under Review.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- 巫锡炜,<strong>曹增栋</strong>,武翰涛 (2022). 高等教育扩张与小家庭崛起——来自大学扩招政策的证据. <strong>社会学研究</strong> , 37(3): 92-114（社会学顶刊；CSSCI）
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. Accepted.
+- <strong>曹增栋</strong> (2024). 宗族网络对农村居民创业表现的双重影响——促进与限制因素的解析. <strong>山西财经大学学报</strong>, 46(2): 29-42（通讯作者；CSSCI）
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- 涂勤, <strong>曹增栋</strong> (2022). 电子商务进农村能促进农户创业吗?——基于电子商务进农村综合示范政策的准自然实验. <strong>中国农村观察</strong>, (6): 163-180（通讯作者；CSSCI）
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>曹增栋</strong> (2024). 电子商务促进了农民农村共同富裕吗?——基于收入增长与差距缩小的双重视角. <strong>西部论坛</strong>, 34(3): 95-110.（通讯作者；CSSCI）
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>曹增栋</strong>, 岳中刚, 程欣炜 (2023). 电子商务参与对农村性别收入差距的影响. <strong>湖南农业大学学报(社会科学版)</strong>, 24(6): 13-22（通讯作者；CSSCI）
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>曹增栋</strong> , 岳中刚 (2024). 数字经济与实体经济融合对碳排放强度的影响：理论模型与经验证据. <strong>经济问题探索</strong>（CSSCI）（待刊2024年第12期）
 
+- <strong>曹增栋</strong>, 岳中刚 (2024). 数实融合与企业绿色化转型. <strong>商业研究</strong>（CSSCI）（待刊2024年第5期）
+
+- 林永生, <strong>曹增栋</strong> (2023). 科技金融能促进企业污染减排吗？——基于“科技和金融结合试点”的准自然实验. <strong>北京理工大学学报(社会科学版)</strong>, 25(5): 1-14（通讯作者；CSSCI）
+
+- <strong>Zengdong Cao</strong>, Qin Tu, Nichola Latoya Williams (2024). E-commerce, Pandemic Shock and the Survival of Small and Medium Enterprises. <strong>China & World Economy </strong> (JCR Q1; SSCI)
+
+- <strong>Zengdong Cao</strong> (2024).  Investing in Friendship: International Friendship Cities and Foreign Direct Investment. <strong>Applied Economics Letters </strong> ,1-5（通讯作者；SSCI）
+
+- Zaizhou Hu, <strong>Zengdong Cao</strong>, Anran Du, Qin Tu (2024). Where does it Matter? Revisiting the Role of Proximity in Knowledge Spillovers. <strong>American Journal of Economics and Sociology</strong>（Accepted）
+
+- Anran Du, <strong>Zengdong Cao</strong>, Zaizhou Hu, Qin Tu (2024). Trust and E-commerce Consumption: Evidence from China. <strong>Applied Economics Letters </strong> ,1-8（SSCI）
