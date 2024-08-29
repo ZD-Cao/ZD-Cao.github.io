@@ -1,1 +1,3 @@
-- 香樟经济圈第五届“香樟青苗奖”, 2022.
+- 2023  The fifth "Camphor Young Seedling Award" in the Camphor Economics Academic Circle（香樟青苗奖）.
+- 2022  Outstanding Graduate Teaching Assistant .
+
