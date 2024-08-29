@@ -1,8 +1,8 @@
 
-I am a Ph.D candidate at Beijing Normal University, China.
+I am a Ph.D. candidate at Beijing Normal University, China. I was born in January 1998.
 
 #### Email
-sli[at]caozengdong@foxmail.com
+caozengdong@foxmail.com
 
 #### Education
 Ph.D., Western Economics, Beijing Normal University, 2022.09—2025.07 (expected).\
