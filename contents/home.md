@@ -1,5 +1,7 @@
 
-I am a Ph.D. candidate at Beijing Normal University, China. I was born in January 1998.
+Hello! My name is Zengdong Cao. I was born in January 1998. \
+I am a Ph.D. candidate at Beijing Normal University, China.    \
+My research focus on e-commerce and environmental governance.
 
 #### Email
 caozengdong@foxmail.com
