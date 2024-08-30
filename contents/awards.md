@@ -1,3 +1,6 @@
-- 2022  The fifth "Camphor Young Seedling Award" in the Camphor Economics Academic Circle（香樟青苗奖）.
-- 2022  Outstanding Graduate Teaching Assistant .
-
+- 2022  The fifth "Camphor Young Seedling Award" in the Camphor Economics Academic Circle. (香樟青苗奖)
+- 2022  Outstanding Graduate Teaching Assistant.
+- 2019  National First Prize in the 9th "CRA-Zhengda Cup" Market Research and Analysis Competition.
+- 2019  National Third Prize in the 6th College Student Statistical Modeling Contest 
+- 2018  Honorable Mention in the U.S. Mathematical Contest in Modeling.
+- 2017  Provincial First Prize in the 14th Jiangsu Province Higher Mathematics Contest 
