@@ -18,10 +18,10 @@
 
 - 夏文浩，张俊飚，<strong>曹增栋</strong> (2023). 国家数字经济创新发展试验区能提升新质生产力吗？<strong>重庆大学学报(社会科学版)</strong>（CSSCI）（正式录用）
 
-- <strong>Zengdong Cao</strong>, Qin Tu, Nichola Latoya Williams (2024). E-commerce, Pandemic Shock and the Survival of Small and Medium Enterprises. <strong>China & World Economy </strong>,1-27 (JCR Q1; SSCI)
+- <strong>Zengdong Cao</strong>, Qin Tu, Nichola Latoya Williams (2024). E-commerce, Pandemic Shock and the Survival of Small and Medium Enterprises. <strong>China & World Economy </strong>, 32(5): 113-139. (JCR Q1)
 
-- <strong>Zengdong Cao</strong> (2024).  Investing in Friendship: International Friendship Cities and Foreign Direct Investment. <strong>Applied Economics Letters </strong>,1-5（通讯作者；SSCI）
+- <strong>Zengdong Cao</strong> (2024).  Investing in Friendship: International Friendship Cities and Foreign Direct Investment. <strong>Applied Economics Letters </strong>,1-5（独立作者）
 
-- Zaizhou Hu, <strong>Zengdong Cao</strong>, Anran Du, Qin Tu (2024). Where does it Matter? Revisiting the Role of Proximity in Knowledge Spillovers. <strong>American Journal of Economics and Sociology</strong>,1-26（ABS2）
+- Zaizhou Hu, <strong>Zengdong Cao</strong>, Anran Du, Qin Tu (2024). Where does it Matter? Revisiting the Role of Proximity in Knowledge Spillovers. <strong>American Journal of Economics and Sociology</strong>,1-26. (ABS2)
 
-- Anran Du, <strong>Zengdong Cao</strong>, Zaizhou Hu, Qin Tu (2024). Trust and E-commerce Consumption: Evidence from China. <strong>Applied Economics Letters </strong>,1-8（SSCI）
+- Anran Du, <strong>Zengdong Cao</strong>, Zaizhou Hu, Qin Tu (2024). Trust and E-commerce Consumption: Evidence from China. <strong>Applied Economics Letters </strong>,1-8.
